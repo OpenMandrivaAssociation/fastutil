@@ -1,2 +1,5 @@
 sources:
+  fastutil-8.5.19.tar.gz: edcb59971e9180fa912ca01b394019b3f926b2cc
+  fastutil-8.5.2.tar.gz: 3eed65a656a9302a957e73d375378aa7dbaa1894
+removed_sources:
   fastutil-8.5.19.tar.gz: 689c71df379358b956f84199e4fcbdb709b141c7
